@@ -2,6 +2,8 @@
 
 A simple terminal-based Battleship game written in C++. You choose a difficulty level and fire at hidden enemy ships by entering coordinates like `A5`. The game tracks hits, misses, ammo, and previous shots.
 
+![Gameplay](doc/Screenshot 2025-11-15 at 7.45.38 PM.png)
+![Gameplay](doc/Screenshot 2025-11-15 at 7.45.30 PM.png)
 ---
 
 ## Features
